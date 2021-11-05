@@ -4,6 +4,7 @@
 simplePortScanner.py
 Author: Nik Alleyne
 Author Blog: www.securitynik.com
+Date: 2021-11-04
 
 Reference:
 https://docs.python.org/3/howto/sockets.html
